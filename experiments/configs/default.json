@@ -1,0 +1,14 @@
+{
+  "csv_path": "C:/Users/Medo/Desktop/AFIFA/PI-NAIM/data/ADMISSIONS.csv",
+  "batch_size": 64,
+  "epochs": 50,
+  "device": "cpu",
+  "task_type": "classification",
+  "missing_rate": 0.2,
+  "route_threshold": 0.2,
+  "embed_dim": 64,
+  "hidden": 128,
+  "gain_dropout": 0.2,
+  "lr": 0.001,
+  "seed": 42
+}
